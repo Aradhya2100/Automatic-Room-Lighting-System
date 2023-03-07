@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"2.8333333333332007 , -214.62499999999997 , -214.62499999999997 , -222.84842642647877  PIR Sensor"
+"L1",1," Light bulb"
+"P1",1,"5 , 5  Power Supply"
+"R1",1," Photoresistor"
+"R2",1,"1 kΩ Resistor"
+"K1",1," Relay SPDT"
